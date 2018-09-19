@@ -1,7 +1,7 @@
 # Reviews
 ![](https://github.com/vinpatel/Reviews/blob/master/The%20Reviews%20App.png)
 
-Facebook Graph Integration 
+# Facebook Graph Integration 
 Overview
 
 Methods used to interact with the Facebook Graph API.
